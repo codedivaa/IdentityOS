@@ -312,3 +312,7 @@ Instead of another static report, IdentityOS creates an immersive operating-syst
 Contributions, ideas, feature requests and improvements are always welcome.
 
 If you enjoy the project, consider starring the repository ⭐.
+
+# Author 
+
+Codedivaa XOXO 
